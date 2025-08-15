@@ -50,5 +50,3 @@ pip install -r requirements.txt
 jupyter notebook REAL_ESTATE_PRICE_PREDICTION.ipynb
 ```
 
-## 📜 License
-This project is licensed under the MIT License.
